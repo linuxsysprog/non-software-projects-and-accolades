@@ -96,7 +96,7 @@ Saint Louis University, Baguio</a>, at the Department of Mechanical and Mechatro
 	</tr>
 </table>
 <h2>2016</h2>
-<p>A friend of mine made some beautiful photos of equipment and processed at my workshop in Baguio.</p>
+<p>A friend of mine made some beautiful photos of equipment and processes at my workshop in Baguio.</p>
 <img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Presentation/IMG_3542.resized.png">
 <img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Presentation/IMG_3584.resized.png">
 <img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Presentation/IMG_4244.resized.png">
