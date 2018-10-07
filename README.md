@@ -15,6 +15,10 @@ system as a baseline embedded Linux distro for my future projects. I now use the
 <h3>Textbooks I've read and recommend</h3>
 <table>
 	<tr>
+		<td valign="top"><a href="https://www.oreilly.com/library/view/learning-perl-7th/9781491954317">Tom Phoenix, brian d foy, Randal L. Schwartz. <i>Learning Perl.</i> 7th Edition. O'Reilly. 2016. ISBN 9781491954317.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2018/Learning Perl__7th_Edition.jpg"></td>
+	</tr>
+	<tr>
 		<td valign="top"><a href="https://www.packtpub.com/application-development/git-essentials">Ferdinando Santacroce. <i>Git Essentials.</i> Packt Publishing. 2015. ISBN 1785287907.</a></td>
 		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2018/Git_Essentials.jpg"></td>
 	</tr>
