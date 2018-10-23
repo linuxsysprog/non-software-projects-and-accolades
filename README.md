@@ -15,6 +15,10 @@ system as a baseline embedded Linux distro for my future projects. I now use the
 <h3>Textbooks I've read and recommend</h3>
 <table>
 	<tr>
+		<td valign="top"><a href="http://forta.com/books/0672328666/">Ben Forta. <i>Sams Teach Yourself Oracle PL/SQL In 10 Minutes.</i> Sams. 2015. ISBN 0672328666.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2018/Teach_Yourself_Oracle_PL_SQL.jpg"></td>
+	</tr>
+	<tr>
 		<td valign="top"><a href="https://www.oreilly.com/library/view/learning-perl-7th/9781491954317">Tom Phoenix, brian d foy, Randal L. Schwartz. <i>Learning Perl.</i> 7th Edition. O'Reilly. 2016. ISBN 9781491954317.</a></td>
 		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2018/Learning Perl__7th_Edition.jpg"></td>
 	</tr>
