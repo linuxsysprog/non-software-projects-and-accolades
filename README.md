@@ -7,6 +7,10 @@ items of work I produced and textbooks I read.</p>
 <h3>Textbooks I've read and recommend</h3>
 <table>
 	<tr>
+		<td valign="top"><a href="http://www.informit.com/store/algorithms-in-c-parts-1-4-fundamentals-data-structures-9780201314526">Robert Sedgewick. <i>Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching.</i> 3rd Edition. Addison-Wesley. 1998. ISBN 0201314525.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2019/Algorithms_in_C__Parts_1-4_resized.jpg"></td>
+	</tr>
+	<tr>
 		<td valign="top"><a href="https://www.oreilly.com/library/view/instant-mock-testing/9781783289950/">Deep Shah. <i>Instant Mock Testing with PowerMock.</i> Packt Publishing. 2013. ISBN 1783289953.</a></td>
 		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2019/Instant_Mock_Testing_with_PowerMock_resized.jpg"></td>
 	</tr>
