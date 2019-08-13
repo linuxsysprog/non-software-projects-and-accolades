@@ -3,6 +3,14 @@
 <body>
 <p>I created this page to serve as supplement to my professional resume. I cherry-picked some notable events, accomplishments,
 items of work I produced and textbooks I read.</p>
+<h2>2019</h2>
+<h3>Textbooks I've read and recommend</h3>
+<table>
+	<tr>
+		<td valign="top"><a href="https://www.oreilly.com/library/view/instant-mock-testing/9781783289950/">Deep Shah. <i>Instant Mock Testing with PowerMock.</i> Packt Publishing. 2013. ISBN 1783289953.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2019/Instant_Mock_Testing_with_PowerMock_resized.jpg"></td>
+	</tr>
+</table>
 <h2>2018</h2>
 <p>I spent my most recent year in Australia where I was operating as a Sole Trader. I'd managed to build a small 
 business network and win some clients. Here's my calling card from that time.</p>
