@@ -7,6 +7,10 @@ items of work I produced and textbooks I read.</p>
 <h3>Textbooks I've read and recommend</h3>
 <table>
 	<tr>
+		<td valign="top"><a href="http://shop.oreilly.com/product/0636920030614.do">Arun Gupta. <i>Java EE 7 Essentials.</i> O'Reilly. 2013. ISBN 9781449370176.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2019/Java_EE_7_Essentials_resized.jpg"></td>
+	</tr>
+	<tr>
 		<td valign="top"><a href="http://www.informit.com/store/algorithms-in-c-parts-1-4-fundamentals-data-structures-9780201314526">Robert Sedgewick. <i>Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching.</i> 3rd Edition. Addison-Wesley. 1998. ISBN 0201314525.</a></td>
 		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2019/Algorithms_in_C__Parts_1-4_resized.jpg"></td>
 	</tr>
