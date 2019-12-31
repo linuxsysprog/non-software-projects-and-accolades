@@ -7,6 +7,10 @@ items of work I produced and textbooks I read.</p>
 <h3>Textbooks I've read and recommend</h3>
 <table>
 	<tr>
+		<td valign="top"><a href="https://www.goodreads.com/book/show/853267.An_Introduction_to_GCC">Brian Gough. <i>An Introduction to GCC.</i> Network Theory. 2004. ISBN 0954161793.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2019/An_Introduction_to_GCC.jpg"></td>
+	</tr>
+	<tr>
 		<td valign="top"><a href="http://shop.oreilly.com/product/0636920030614.do">Arun Gupta. <i>Java EE 7 Essentials.</i> O'Reilly. 2013. ISBN 9781449370176.</a></td>
 		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2019/Java_EE_7_Essentials_resized.jpg"></td>
 	</tr>
