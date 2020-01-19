@@ -5,11 +5,11 @@
 items of work I produced and textbooks I read.</p>
 <h2>2020</h2>
 <h3>Textbooks I've read and recommend</h3>
+<table>
 	<tr>
 		<td valign="top"><a href="https://www.gnu.org/software/make/manual/">Richard M. Stallman et al. <i>GNU Make: A Program for Directing Recompilation.</i> Free Software Foundation. 2004. ISBN 1882114833.</a></td>
 		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2020/GNU_Make.png"></td>
 	</tr>
-<table>
 </table>
 <h2>2019</h2>
 <h3>Textbooks I've read and recommend</h3>
