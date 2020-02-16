@@ -7,6 +7,10 @@ items of work I produced and textbooks I read.</p>
 <h3>Textbooks I've read and recommend</h3>
 <table>
 	<tr>
+		<td valign="top"><a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">Brian Kernighan, Dennis Ritchie. <i>The C Programming Language.</i> 1st Edition. Prentice-Hall. 1978. ISBN 9780131101630.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2020/TCPL.png"></td>
+	</tr>
+	<tr>
 		<td valign="top"><a href="https://www.gnu.org/software/make/manual/">Richard M. Stallman et al. <i>GNU Make: A Program for Directing Recompilation.</i> Free Software Foundation. 2004. ISBN 1882114833.</a></td>
 		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2020/GNU_Make.png"></td>
 	</tr>
