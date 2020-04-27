@@ -7,6 +7,10 @@ items of work I produced and textbooks I read.</p>
 <h3>Textbooks I've read and recommend</h3>
 <table>
 	<tr>
+		<td valign="top"><a href="https://linker.iecc.com/">John R. Levine. <i>Linkers and Loaders.</i> Morgan-Kauffman. 1999. ISBN 1558604960.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2020/Linkers_and_Loaders.jpg"></td>
+	</tr>
+	<tr>
 		<td valign="top"><a href="https://shop.fsf.org/books-docs/debugging-gdb-gnu-source-level-debugger-v-731">Richard M. Stallman et al. <i>Debugging with GDB: The GNU Source-Level Debugger.</i> Free Software Foundation. 2002. ISBN 1882114884.</a></td>
 		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2020/GNU_Debugger.jpg"></td>
 	</tr>
