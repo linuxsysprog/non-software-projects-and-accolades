@@ -3,6 +3,14 @@
 <body>
 <p>I created this page to serve as supplement to my professional resume. I cherry-picked some notable events, accomplishments,
 items of work I produced and textbooks I read.</p>
+<h2>2022</h2>
+<h3>Textbooks I've read and recommend</h3>
+<table>
+	<tr>
+		<td valign="top"><a href="https://man7.org/tlpi/">Michael Kerrisk. <i>The Linux Programming Interface.</i> No Starch Press. 2010. ISBN 1593272200.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2022/TLPI.jpg"></td>
+	</tr>
+</table>
 <h2>2020</h2>
 <h3>Textbooks I've read and recommend</h3>
 <table>
