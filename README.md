@@ -2,7 +2,15 @@
 <html>
 <body>
 <p>I created this page to serve as supplement to my professional resume. I cherry-picked some notable events, accomplishments,
-items of work I produced and textbooks I read.</p>
+items of work I have produced and textbooks I've read.</p>
+<h2>2024</h2>
+<h3>Textbooks I've read and recommend</h3>
+<table>
+	<tr>
+		<td valign="top"><a href="https://docs.python.org/3/archives/python-3.12.4-docs-pdf-a4.zip">Guido van Rossum et al. <i>Python Tutorial.</i> Python Software Foundation. 2024.</a></td>
+		<td><img src="https://github.com/linuxsysprog/non-software-projects-and-accolades/blob/master/images/Books/2024/Python_Tutorial.png"></td>
+	</tr>
+</table>
 <h2>2022</h2>
 <h3>Textbooks I've read and recommend</h3>
 <table>
